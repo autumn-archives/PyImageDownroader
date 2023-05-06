@@ -1,6 +1,8 @@
 # PyImageDownloader
 
 PyImageDownloaderは、PythonとPySimpleGUIを使用して作られた便利な画像ダウンローダーです。
+
+
 ![PyImageDownloader](https://user-images.githubusercontent.com/124559210/236590781-a2266cd0-68dc-4dd6-be44-f6104e7d919d.jpg)
 
 # 特徴
@@ -10,8 +12,10 @@ URLで指定したページ内の画像を一括でダウンロードできま�
 
 # 必要条件
 Python 3.10.5以上
+
 PySimpleGUI 4.60.4
     pip install PySimpleGUI
+
 requests 2.29.0
     pip install requests
 
