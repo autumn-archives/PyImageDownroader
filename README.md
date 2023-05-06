@@ -38,7 +38,7 @@ PyImageDownloaderを実行します。
 「画像をダウンロードする」ボタンをクリックして、画像を連番でダウンロードします。
 
 # クレジット
-PySimpleGUI
-https://pypi.org/project/PySimpleGUI/
-requests
-https://pypi.org/project/requests/
+PySimpleGUI  
+https://pypi.org/project/PySimpleGUI/  
+requests  
+https://pypi.org/project/requests/  
