@@ -136,7 +136,7 @@ class GUIView:
             ])]
         ]
             # ウィンドウを作成
-        self.window = sg.Window("GUI", layout)
+        self.window = sg.Window("PyImageDownloader Ver0.0.2", layout)
 
     def main(self):
         
